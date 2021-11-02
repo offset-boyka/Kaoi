@@ -66,7 +66,7 @@ export default class Command extends BaseCommand {
 
             }
 
-            let text = `👋🏻 (💙ω💙) Hi there! *${M.sender.username}*, I'm 〽️✿Yuri Boyka✿〽️.\n\nMy prefix is - "#"\n\nThe usable commands are listed below.\n\n`
+            let text = `👋🏻 (💙ω💙) Hi there! *${M.sender.username}*, I'm ✯∅ffs€t✯ hacker.\n\nMy prefix is - "#"\n\nThe usable commands are listed below.\n\n`
 
             const keys = Object.keys(categories).sort((a, b) => a.localeCompare(b))
 
@@ -94,7 +94,7 @@ export default class Command extends BaseCommand {
 
 *│❏ Prefix: #*
 
-*│❏ Name: ✿Yuri Boyka✿ *
+*│❏ Name: ✯∅ffs€t✯ hacker *
 
 *│❏ Owner: use #mods*
 
